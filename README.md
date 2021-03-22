@@ -1,5 +1,5 @@
 # Operating-System
-Basic Scheduling Algorithm
+Basic Scheduling Algorithm which are used in the Operating System
 
 
 1. FCFS Disk Scheduling
